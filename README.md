@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="display:flex;align-items:center;justify-content:center">
+<div style="display:flex;align-items:center;justify-content:center margin:50px">
   <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
